@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Churn Analysis - EDA and Modeling
 
 ## Overview
@@ -75,3 +76,6 @@ Gradient Boosting appears to be the best model for this churn prediction task, f
 
 
 
+=======
+# MTN_CHURN
+>>>>>>> 58e57d379f589ccbfbd88136ffe18bb9c09606d1
